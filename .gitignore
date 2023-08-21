@@ -1,3 +1,0 @@
-[submodule "libgpod"]
-	path = contrib/libgpod
-	url = https://github.com/fadingred/libgpod.git
